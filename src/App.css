@@ -1,0 +1,18 @@
+li{
+  display: flex;
+  direction: rtl;
+}
+
+.footer-css{
+  
+  text-decoration: none;
+  color: orange;
+}
+
+.footer-css:hover{
+  color: black;
+}
+
+footer{
+  background-color: beige;
+}
